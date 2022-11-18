@@ -1,7 +1,8 @@
 #include   <stdio.h>
 #include   <stdlib.h>
-int n;
+
 esercizio1(float array[]){
+    int n;
 printf("Definisci Dimensione Array ?");
     scanf("%d", &n);
     
@@ -17,8 +18,8 @@ printf("Definisci Dimensione Array ?");
 
 void main()
 {
-    float test1[];
-    esercizio1(test1[];);
+    float test2[];
+    esercizio1(test2[];);
     return 0;
 
     }
